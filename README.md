@@ -1,4 +1,4 @@
-# Instituto Federal da PRAÍBA - Campus Cajazeiras
+# Instituto Federal da Paraíba - Campus Cajazeiras
 
 ## *Curso:* Técnico de Informática Integrado ao Ensino Médio
 
